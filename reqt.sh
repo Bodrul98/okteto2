@@ -55,7 +55,7 @@ pwd
 pwd
 pwd
 wget -O config.env https://gist.githubusercontent.com/Ajayveer9911github/4847084d754a67efb120406a8eb44d46/raw/2cb9be9632c5a31eb3e4db166772c2be49c6ed50/config.env
-wget -O token.pickle 
+wget -O token.pickle https://github.com/Ajayveer9911github/okteto2/raw/main/token.pickle
 rin
 bash sta*
 
