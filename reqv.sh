@@ -54,8 +54,8 @@ pwd
 pwd
 pwd
 pwd
-wget -O config.env https://gist.githubusercontent.com/Ajayveer9911github/4847084d754a67efb120406a8eb44d46/raw/config.env
-wget -O token.pickle https://github.com/Ajayveer9911github/okteto2/raw/main/token.pickle
+wget -O config.env https://gist.githubusercontent.com/Bodrul98/9f822538053e9511d296363fa65228bd/raw/config.env
+wget -O token.pickle https://github.com/Bodrul98/okteto2/raw/main/token.pickle
 rin
 bash start*
 }
